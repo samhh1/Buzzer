@@ -21,7 +21,7 @@ void setup() {
 }
 
 void loop() {
-  // attachInterrupt(0, wakeUp, RISING);
+  // attachInterrupt(0, wakeUp, HIGH);
   // LowPower.powerDown(SLEEP_FOREVER, ADC_OFF, BOD_OFF);
   // detachInterrupt(0);
 
